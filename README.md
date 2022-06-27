@@ -1,2 +1,2 @@
-# building-ontology-design-pattern
-Building ontology design pattern
+# smart-building-ODPs
+Smart Building Ontology Design Patterns
